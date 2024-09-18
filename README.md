@@ -1,8 +1,18 @@
-# React + Vite
+# La maison de la jungle
+Projet réalisé via le parcour openclassroom 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Le but du projet est de réaliser un site qui est réactif et animé.
 
-Currently, two official plugins are available:
+### Réalisé en 
+- React
+- Html
+- Css
+- Javascript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Démarrage
+`npm run dev`
+
+### Amélioration possible 
+- Créer un login/signup
+
+[Lien du projet](https://la-maison-de-la-jungle.onrender.com/)
